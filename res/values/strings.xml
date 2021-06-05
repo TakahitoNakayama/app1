@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">投信積立シミュレーター</string>
+    <string name="dialog_title">確認</string>
+    <string name="dialog_msg">この条件で計算していいですか。</string>
+    <string name="dialog_btn_ok">はい</string>
+    <string name="dialog_btn_ng">いいえ</string>
+</resources>
