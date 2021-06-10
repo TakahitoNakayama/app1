@@ -34,7 +34,7 @@ public class ConfirmDialogFragment extends DialogFragment {
 
 
     //ダイアログが押されたときの処理
-    public class DialogButtonClickListener implements DialogInterface.OnClickListener {
+     class DialogButtonClickListener implements DialogInterface.OnClickListener {
         @Override
         public void onClick(DialogInterface dialog, int which) {
 
