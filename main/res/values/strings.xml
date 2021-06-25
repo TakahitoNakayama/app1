@@ -1,16 +1,9 @@
 <resources>
-    <string name="app_name">データベースサンプル</string>
-    <string-array name="lv_cocktaillist">
-        <item>ホワイトレディー</item>
-        <item>パラライカ</item>
-        <item>XYZ</item>
-        <item>ニューヨーク</item>
-        <item>マンハッタン</item>
-        <item>ミシシッピ</item>
-        <item>ブルーハワイ</item>
-    </string-array>
-    <string name="tv_lb_name">選択されたカクテル：</string>
-    <string name="tv_name">未選択</string>
-    <string name="tv_lb_note">感想：</string>
-    <string name="btn_save">保存</string>
+    <string name="app_name">投信積立シミュレーター</string>
+    <string name="dialog_title">確認</string>
+    <string name="dialog_msg">この条件で計算していいですか。</string>
+    <string name="dialog_btn_ok">はい</string>
+    <string name="dialog_btn_ng">いいえ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
